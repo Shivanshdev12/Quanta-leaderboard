@@ -1,0 +1,29 @@
+#background{
+    background-image:url("leaderboard.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height:100vh;
+}
+.btext
+{
+    color:#ff8c1a;
+    box-shadow:0 0 2em rgba(0,0,0,0.2); 
+    padding:40px;
+    font-family: "Comic Sans MS";
+}
+
+.btn{
+    margin-left:800px;
+    margin-top:350px;
+    box-shadow:0 0 1em rgba(0,0,0,0.2); 
+    text-align: center;
+    position:fixed;
+
+}
+table{
+    font-family: "Comic Sans MS";
+    margin-top:40px;
+    color:white;
+    font-size:2.2em;
+    font-weight:bold;
+}
